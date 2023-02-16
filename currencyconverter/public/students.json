@@ -1,0 +1,17 @@
+[
+    {  
+      "id": 1,  
+      "name": "Jack",  
+      "dateOfBirth":"10/12/1998"
+    },  
+    {  
+      "id": 2,  
+      "name": "Ariana",  
+      "dateOfBirth":"11/1/1997"  
+    },  
+    {  
+      "id": 3,  
+      "name": "Mary",  
+      "dateOfBirth":"2/2/2000" 
+    }
+  ]
